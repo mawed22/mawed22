@@ -34,8 +34,8 @@ Bonjour à tous ! Je suis Foupoua Mohamed, Data Consultant chez Junto et étudia
   ![Google Analytics](https://img.shields.io/badge/google-analytics-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  ![Docker](https://camo.githubusercontent.com/c9a85f6869aa992f1500dd9d4d4bdff7d405605292ca152587394c1f92552d4f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465) ![GIT](https://camo.githubusercontent.com/94d83dc5838e2784bee25fe9e019bc2fda128676f32cef2f06baa0f6f3849b8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) <br>
 
   #### 💬 Contactez moi ici: <br>
-  📧 Email: foupouamohamed3@gmail.com
-🔗 LinkedIn: linkedin.com/in/mohamed-foupoua/ <br>
+  📧 Email: foupouamohamed3@gmail.com <br>
+  🔗 LinkedIn:  <a href="https://www.linkedin.com/in/mohamed-foupoua" rel="nofollow">llinkedin.com/in/mohamed-foupoua/</a><br>
 <hr></hr>
 
 # 📊 GitHub Stats:
