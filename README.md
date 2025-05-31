@@ -1,6 +1,6 @@
 ## 💫 À propos de moi:
 
-### 👋 FOUPOUA MOHAMED
+### 👋 MOHAMED FOUPOUA 
 
 #### Consultant Data @ Junto | Master Data et IA @ Ascencia Business School
 ##
