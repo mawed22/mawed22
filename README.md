@@ -2,7 +2,7 @@
 
 ### 👋 FOUPOUA MOHAMED
 
-#### Consultant Data @ Junto | Étudiant en Master Data et IA @ Collège de Paris
+#### Consultant Data @ Junto | Master Data et IA @ Ascencia Business School
 ##
 Bonjour à tous ! Je suis Foupoua Mohamed, Data Consultant chez Junto et étudiant passionné qui poursuit son Master en Data & AI au Collège de Paris. Je suis passionné par l'analyse de données et l'intelligence artificielle.<br>Je me concentre actuellement sur le développement de mes compétences en matière d'analyse de données, de visualisation, de gestion de bases de données et de statistiques avancées, prête à avoir un impact dans le domaine de la prise de décision fondée sur les données. Qu'il s'agisse de nettoyer, d'explorer ou d'interpréter des données complexes, je suis toujours prêt à transformer les chiffres en informations exploitables.<br><br>💼 Experience:<br><ul><li><strong>Data Analyst Consultant @Junto</strong>: Je crée des tableaux de bord avec Power BI et Looker Studio (Google Data Studio) à partir de plusieurs sources de données pour faciliter la prise de décisions dans les domaines de la vente et du marketing.</li><li><strong>Data Engineer chez GOHZE</strong>: En tant que Data Engineer chez GOHZE, mon rôle principal était de trouver des solutions d'intelligence artificielle pour optimiser le marketing de l'entreprise. En outre, j'étais responsable de la collecte, du nettoyage et de l'analyse des données afin de fournir des informations précieuses pour la prise de décision.</li><li><strong>Développeur de logiciels chez Orange</strong>: J'étais en charge du développement d'applications web et de la création d'API en utilisant des frameworks modernes comme Node JS et Laravel.</li></ul><br>🔧 Skills:
 
